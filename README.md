@@ -13,4 +13,4 @@ On this moment i have next skills:
 
 Also my expirience:
 
-* Small [web-store](http://monumental-lamington-107ee9.netlify.app!) made for my diploma
+* Small [web-store](http://monumental-lamington-107ee9.netlify.app) made for my diploma
