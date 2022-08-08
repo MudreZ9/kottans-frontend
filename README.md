@@ -22,5 +22,5 @@ In this module I:
 * complited [Linux Survival](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)
 <details>
     <summary>Quiz 1</summary>
-    <img src="[image](https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/photo_2022-08-08_12-54-58.jpg)">
+    <img src="https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/photo_2022-08-08_12-54-58.jpg">
 </details>
