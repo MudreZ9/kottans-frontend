@@ -14,3 +14,13 @@ On this moment i have next skills:
 Also my expirience:
 
 * Small [web-store](http://monumental-lamington-107ee9.netlify.app) made for my diploma
+
+## Linux CLI, and HTTP 
+
+In this module I:
+
+* complited [Linux Survival](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)
+<details>
+    <summary>Quiz 1</summary>
+    <img src="[image](https://user-images.githubusercontent.com/61726692/183389856-9df75b6a-69b2-483d-9b84-b9370f0c1b14.png)">
+</details>
