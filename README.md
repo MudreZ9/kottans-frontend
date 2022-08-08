@@ -22,5 +22,17 @@ In this module I:
 * complited [Linux Survival](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)
 <details>
     <summary>Quiz 1</summary>
-    <img src="https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/photo_2022-08-08_12-54-58.jpg">
+    <img src="https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/quiz1.jpg">
+</details>
+<details>
+    <summary>Quiz 2</summary>
+    <img src="https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/quiz2.jpg">
+</details>
+<details>
+    <summary>Quiz 3</summary>
+    <img src="https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/quiz3.jpg">
+</details>
+<details>
+    <summary>Quiz 4</summary>
+    <img src="https://github.com/MudreZ9/kottans-frontend/blob/main/task_linux_cli/quiz4.jpg">
 </details>
