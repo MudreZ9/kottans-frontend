@@ -21,7 +21,7 @@ In this module I:
 
 >Мне очень понравились лекции и то как подробно и понятно рассказывал лектор. Несмотря на то, что мой уровень английского не позволяет смотреть в оригинале, а субтитры были не самого лучшего качества, я подчерпнула для себя много новой и полезной информации и применяю её на практике уже сейчас.
 
-* passed [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU)
+* passed game [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU)
 
 >К сожалению, это задание не пришлось мне по душе. Даже учитывая не идеальную адаптацию на русский язык игра показалась мне слишком абстрактной. Не могу сказать, что этот опыт был полезен для меня.
 
@@ -55,3 +55,23 @@ In this module I:
 * [second part](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 > Статья оказалось довольной полезной для меня читал иногда переводя слова так как мой английский не на столько хорошо. В целом статьёй доволен и хорошо проинформирован. Одобрено :D . 
+
+
+#Git Collaboration
+
+In this module I:
+
+* lisened [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) 
+> Это было познавательно и полезно для меня. Лектор Лени хорош, всё понятно и с душой, хоть у меня нету знаний с языком Python, но потратив чуть больше усилий всё стало понятно.
+
+* passed game [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU)
+
+
+
+
+
+
+
+
+
+
